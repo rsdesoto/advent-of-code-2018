@@ -1029,7 +1029,7 @@ def getFreq(arr,freq):
     
     return freq
 
-getFreq(arr1,0)
+print(getFreq(arr1,0))
 
 
 def getDouble2(arr,freq):
@@ -1045,4 +1045,4 @@ def getDouble2(arr,freq):
 
     return arrsecond[0]
         
-getDouble2(arr1,0)
+print(getDouble2(arr1,0))
